@@ -1,0 +1,180 @@
+
+
+#code{
+	margin: 0 auto;
+}
+
+
+body{
+	background: #f3f4f7;
+}
+
+#skills {
+	margin-top: 75px;
+	font-family: 'Rajdhani', sans-serif;
+	color: #4e4f4f;
+	font-size: 25px;
+	text-align: center;
+}
+
+#about{
+	font-family: 'Rajdhani', sans-serif;
+	color: #4e4f4f;
+	font-size: 72px;
+	border-top: solid 1px #333;
+	border-bottom: solid 1px #333;
+	text-align: center;
+	width: 620px;
+	margin: 265px auto 0;
+	/* 265px height */
+
+}
+
+#co{
+	font-size: 30px;
+	width: 230px;
+	margin: 112px auto 0;
+	text-align: center;
+	color: #4e4f4f;
+
+	/*112px height */
+}
+#img{
+	margin: 107px auto 0;
+	text-align: center;
+	width: 100%;
+
+	/*107px height */
+}
+
+#navy{
+	background: #d0d9e5;
+	bottom: 0;
+	height: 100px;
+	border-top: 1px solid #333;
+	border-bottom: 1px solid #333;
+	margin-top: 135px;
+}
+#navy a{
+	color: #9b9da1;
+	font-size: 30px;
+	margin: 0 90px;
+}
+
+.project{
+	color: #333;
+	font-family: 'Ropa Sans', sans-serif;
+	text-align: center;
+	margin-top: 110px;
+	font-size: 36px;
+}
+
+#title{
+	text-align: center;
+	color: #868686;
+	font-family: 'Ropa Sans', sans-serif;
+	margin: 126px auto 0;
+	font-size: 48px;
+	width: 330px;
+}
+
+.project p {
+	font-size: 20px;
+}
+
+.project h2{
+	margin-top: 32px;
+}
+
+.project img{
+	border: solid 1px #999;
+}
+.project img:hover{
+	transform: scale(1.05);
+}
+
+.btn{
+	margin-top: 20px;
+}
+
+#arrow{
+	margin-top: 110px;
+	text-align: center;
+	margin-bottom: 500px;
+}
+#arrow img{
+	margin: 0 auto;
+
+}
+
+#UI{
+	text-align: center;
+	color: #868686;
+	font-family: 'Ropa Sans', sans-serif;
+	margin: 126px auto 0;
+	font-size: 48px;
+	width: 330px;
+}
+
+.mg {
+	width: 480px;
+	height: 736px;
+}
+
+#both {
+	width: 480px;
+	height: 426px;
+}
+
+#Xd {
+	text-align: center;
+	margin-top: 40px;
+	font-size: 20px;
+}
+.mx {
+	width: 240px;
+	height: 350px;
+
+}
+#contact{
+	color: #868686;
+	font-family: 'Ropa Sans', sans-serif;
+	text-align: center;
+	margin-top: 100px;
+}
+
+#contact p {
+
+	margin: 100px 0;
+	font-size: 25px;
+}
+
+#contact h1 {
+	font-size: 40px;
+
+}
+#contact a {
+	font-size: 25px;
+	padding-bottom: 50px;
+	color: grey;
+}
+
+#gi {
+	vertical-align: middle;
+	height: 50px;
+	width: 50px;
+	margin-right: 10px;
+}
+@media only screen and ( max-width: 568px ) {
+	#navy a {
+		font-size: 15px;
+	}
+
+	#navy {
+		height: 130px;
+		text-align: center;
+	}
+	#about{
+		width: 100%;
+	}
+}
