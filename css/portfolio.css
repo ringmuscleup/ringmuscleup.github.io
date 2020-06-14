@@ -177,4 +177,13 @@ body{
 	#about{
 		width: 100%;
 	}
+	.mg {
+	width: 320px;
+	height: 490px;
+}
+#both {
+	width: 320px;
+	height: 284px;
+}
+
 }
